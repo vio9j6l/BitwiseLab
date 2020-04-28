@@ -1,3 +1,11 @@
+/*
+ Course: IST 311
+ Instructor: Phil O'Connell (pxo4)
+ Student: JiaJia Liu
+ Email: jpl5840@psu.edu
+ Assignment: LB21
+*/
+
 public class Main
 {
     public static void main(String[] args) {
